@@ -22,9 +22,7 @@ I’m a software engineer with **7+ years of experience** designing and deliveri
 
 ## Bagdes
 
-<img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/83bcdbb9-9881-4f83-8646-8b2fdf770787" /><img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/0af8b2ef-61f5-4138-a344-b512e388750c" /><img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/0c420e93-4fb4-4294-ad08-92a73f6a5d42" />
-
-<img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/77412efa-88e8-4c17-8635-42610412e516" /><img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/903ecdf9-312b-4d0f-a1d2-ea49fb51ca8e" />
+<img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/83bcdbb9-9881-4f83-8646-8b2fdf770787" /><img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/0af8b2ef-61f5-4138-a344-b512e388750c" /><img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/0c420e93-4fb4-4294-ad08-92a73f6a5d42" /><img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/39ce3627-315b-4e48-9b2f-1aa7eca0a2b5" /><img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/77412efa-88e8-4c17-8635-42610412e516" /><img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/903ecdf9-312b-4d0f-a1d2-ea49fb51ca8e" />
 <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/93b51626-9743-4703-920c-59f95a292720" /><img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/35e8c989-f7fd-4fa5-9f41-304e29f63432" /><img width="54" height="28" alt="image" src="https://github.com/user-attachments/assets/007e0965-2484-4eb8-ac77-8b7c2944375a" /><img width="67" height="28" alt="image" src="https://github.com/user-attachments/assets/f53ad002-c3f0-4ad5-a01c-d1419f5ff6d4" />
 
 
