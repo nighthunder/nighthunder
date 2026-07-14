@@ -1,9 +1,25 @@
-## Hi there 👋
+# 👩🏾‍💻 Mayara Morais
 
-<!--
-**nighthunder/nighthunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Senior Full Stack Engineer | Cloud & DevOps | 2x AWS Certified**  
+> Building scalable, secure, and cloud-native systems ☁️🚀
 
-Here are some ideas to get you started:
+---
+
+## 🌟 About Me
+
+I’m a software engineer with **7+ years of experience** designing and delivering high-performance applications.
+
+💡 What I do best:
+
+- Architect **cloud-native systems on AWS**
+- Build **scalable backend services (Java, Node.js)**
+- Design **event-driven architectures (Kafka, SQS)**
+- Automate infrastructure with **Terraform & CI/CD**
+- Apply **security best practices (OWASP, SAST, SCA)**
+
+---
+
+## 🧠 Expertise
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
