@@ -20,6 +20,11 @@ I’m a software engineer with **7+ years of experience** designing and deliveri
 
 ---
 
+## Bagdes
+
+<img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/83bcdbb9-9881-4f83-8646-8b2fdf770787" />
+
+
 ## 🧠 Expertise
 
 - 🔭 I’m currently working on mitigation of vulnerabilitites in apis. 
