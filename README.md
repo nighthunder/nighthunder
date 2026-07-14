@@ -25,8 +25,8 @@ I’m a software engineer with **7+ years of experience** designing and deliveri
 - 🔭 I’m currently working on mitigation of vulnerabilitites in apis. 
 - 🌱 I’m currently preparing myself to get certification in Terraform and Kubernetes.
 - 👯 I’m looking to collaborate on Java Spring Boot Apis; Php restful Apis; Node.js plus Typescript and GraphQl apis; AWS cloud based projects; Security Architectures;
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🤔 
+- 💬 Ask me about the projects I have worked in.
 - 📫 How to reach me: Linkedin and my portfolio website.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Coffee and social projects lover. 
